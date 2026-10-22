@@ -4,7 +4,7 @@
 
 一个离线、单文件的放松小作品。灵感来自"公园20分钟效应"：在自然中待上20分钟，压力就会明显下降。风栖把一座口袋公园装进浏览器，不用安装，不用登录。
 
-**在线 Demo：** https://YOUR_GITHUB_NAME.github.io/fengqi/
+**在线 Demo：** https://liliyala.github.io/fengqi/
 **快速体验：** 在链接后加 `?t=30`，30 秒就能看到高潮和离别诗。
 
 ## 四扇门
